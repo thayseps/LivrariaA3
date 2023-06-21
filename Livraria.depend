@@ -1,0 +1,313 @@
+# depslib dependency file v1.0
+1685925534 source:c:\users\barce\documents\projetopscmodelagem\livraria\main.cpp
+	"Menu.h"
+
+1685926991 c:\users\barce\documents\projetopscmodelagem\livraria\menu.h
+
+1685925714 source:c:\users\barce\documents\projetopscmodelagem\livraria\menu.cpp
+	<iostream>
+	<conio.h>
+	"Menu.h"
+
+1685998886 source:c:\users\giovane_barcelos\documents\livraria\main.cpp
+	"Menu.h"
+
+1685999454 c:\users\giovane_barcelos\documents\livraria\menu.h
+
+1686000014 source:c:\users\giovane_barcelos\documents\livraria\menu.cpp
+	<iostream>
+	<conio.h>
+	<cstdlib>
+	"Menu.h"
+
+1686001313 source:c:\users\giova\downloads\livraria\cliente.cpp
+	"Cliente.h"
+	<string>
+	<vector>
+	<list>
+	<iostream>
+	<assert.h>
+
+1686001684 c:\users\giova\downloads\livraria\cliente.h
+	<string>
+	<vector>
+	<list>
+	<iostream>
+	<assert.h>
+
+1686001323 source:c:\users\giova\downloads\livraria\itempedidovenda.cpp
+	"ItemPedidoVenda.h"
+	<string>
+	<vector>
+	<list>
+	<iostream>
+	<assert.h>
+
+1686001780 c:\users\giova\downloads\livraria\itempedidovenda.h
+	"Livro.h"
+
+1686162304 c:\users\giova\downloads\livraria\livro.h
+	<string>
+	<vector>
+	<list>
+	<iostream>
+	<assert.h>
+
+1686162895 source:c:\users\giova\downloads\livraria\livro.cpp
+	"Livro.h"
+	<string>
+	<vector>
+	<list>
+	<iostream>
+	<assert.h>
+
+1686579771 source:c:\users\giova\downloads\livraria\main.cpp
+	"include/Menu.h"
+
+1685999454 c:\users\giova\downloads\livraria\menu.h
+
+1686162356 source:c:\users\giova\downloads\livraria\menu.cpp
+	"Menu.h"
+	"Livro.h"
+	<iostream>
+	<conio.h>
+	<cstdlib>
+
+1686001523 source:c:\users\giova\downloads\livraria\pedidovenda.cpp
+	"PedidoVenda.h"
+	<string>
+	<vector>
+	<list>
+	<iostream>
+	<assert.h>
+
+1686001431 c:\users\giova\downloads\livraria\pedidovenda.h
+	"Cliente.h"
+	"ItemPedidoVenda.h"
+	<string>
+	<vector>
+	<list>
+	<iostream>
+	<assert.h>
+
+1685999192 source:c:\users\giova\downloads\livraria\teste.cpp
+	"Teste.h"
+
+1685999826 c:\users\giova\downloads\livraria\teste.h
+
+1686164384 source:c:\users\giova\downloads\livraria\database.cpp
+	"Database.h"
+
+1686164384 c:\users\giova\downloads\livraria\database.h
+	<iostream>
+	"sqlite3.h"
+
+1686163933 c:\users\giova\downloads\livraria\sqlite3.h
+	<stdarg.h>
+
+1686575650 source:c:\users\giova\downloads\livraria\src\cliente.cpp
+	"../include/Cliente.h"
+	<string>
+	<vector>
+	<list>
+	<iostream>
+	<assert.h>
+
+1686001684 c:\users\giova\downloads\livraria\include\cliente.h
+	<string>
+	<vector>
+	<list>
+	<iostream>
+	<assert.h>
+
+1686691469 source:c:\users\giova\downloads\livraria\src\database.cpp
+	"../include/Database.h"
+
+1686682561 c:\users\giova\downloads\livraria\include\database.h
+	<iostream>
+	<sqlite3.h>
+	<vector>
+	<string>
+
+1686163933 c:\users\giova\downloads\livraria\include\sqlite3.h
+	<stdarg.h>
+
+1686575698 source:c:\users\giova\downloads\livraria\src\itempedidovenda.cpp
+	"../include/ItemPedidoVenda.h"
+	<string>
+	<vector>
+	<list>
+	<iostream>
+	<assert.h>
+
+1686001780 c:\users\giova\downloads\livraria\include\itempedidovenda.h
+	"Livro.h"
+
+1686698951 c:\users\giova\downloads\livraria\include\livro.h
+	<string>
+	<vector>
+	<list>
+	<iostream>
+	<assert.h>
+	"../include/Database.h"
+
+1686609740 source:c:\users\giova\downloads\livraria\src\menu.cpp
+	"../include/Menu.h"
+	"../include/Livro.h"
+	<iostream>
+	<conio.h>
+	<cstdlib>
+
+1685999454 c:\users\giova\downloads\livraria\include\menu.h
+
+1686575698 source:c:\users\giova\downloads\livraria\src\pedidovenda.cpp
+	"../include/PedidoVenda.h"
+	<string>
+	<vector>
+	<list>
+	<iostream>
+	<assert.h>
+
+1686001431 c:\users\giova\downloads\livraria\include\pedidovenda.h
+	"Cliente.h"
+	"ItemPedidoVenda.h"
+	<string>
+	<vector>
+	<list>
+	<iostream>
+	<assert.h>
+
+1686593508 source:c:\users\giova\downloads\livraria\src\ler.cpp
+	"Ler.h"
+
+1686593519 c:\users\giova\downloads\livraria\include\ler.h
+	<iostream>
+	<string>
+	<limits>
+	<vector>
+
+1686700857 source:c:\users\giova\downloads\livraria\src\livro.cpp
+	"../include/Livro.h"
+	"../include/Database.h"
+	"../include/Ler.h"
+	<string>
+	<vector>
+	<list>
+	<iostream>
+	<sstream>
+	<assert.h>
+	<conio.h>
+	<cstdio>
+
+1687355227 source:c:\users\barce\documents\ciÊncia da computaÇÃo\1º semestre\programação de soluções computacionais- adriana\livraria\main.cpp
+	"include/Menu.h"
+
+1687040627 c:\users\barce\documents\ciÊncia da computaÇÃo\1º semestre\programação de soluções computacionais- adriana\livraria\include\menu.h
+
+1687313472 source:c:\users\barce\documents\ciÊncia da computaÇÃo\1º semestre\programação de soluções computacionais- adriana\livraria\src\cliente.cpp
+	"../include/Cliente.h"
+	"../include/Database.h"
+	"../include/Ler.h"
+	<string>
+	<vector>
+	<list>
+	<iostream>
+	<sstream>
+	<assert.h>
+	<conio.h>
+	<cstdio>
+
+1686840081 c:\users\barce\documents\ciÊncia da computaÇÃo\1º semestre\programação de soluções computacionais- adriana\livraria\include\cliente.h
+	<string>
+	<vector>
+	<list>
+	<iostream>
+	<assert.h>
+	"../include/Database.h"
+
+1687313781 source:c:\users\barce\documents\ciÊncia da computaÇÃo\1º semestre\programação de soluções computacionais- adriana\livraria\src\database.cpp
+	"../include/Database.h"
+	<stdio.h>
+	<conio.h>
+
+1686747881 c:\users\barce\documents\ciÊncia da computaÇÃo\1º semestre\programação de soluções computacionais- adriana\livraria\include\database.h
+	<iostream>
+	<sqlite3.h>
+	<vector>
+	<string>
+
+1686747882 c:\users\barce\documents\ciÊncia da computaÇÃo\1º semestre\programação de soluções computacionais- adriana\livraria\include\sqlite3.h
+	<stdarg.h>
+
+1686747883 source:c:\users\barce\documents\ciÊncia da computaÇÃo\1º semestre\programação de soluções computacionais- adriana\livraria\src\itempedidovenda.cpp
+	"../include/ItemPedidoVenda.h"
+	<string>
+	<vector>
+	<list>
+	<iostream>
+	<assert.h>
+
+1686747881 c:\users\barce\documents\ciÊncia da computaÇÃo\1º semestre\programação de soluções computacionais- adriana\livraria\include\itempedidovenda.h
+	"Livro.h"
+
+1686834320 c:\users\barce\documents\ciÊncia da computaÇÃo\1º semestre\programação de soluções computacionais- adriana\livraria\include\livro.h
+	<string>
+	<vector>
+	<list>
+	<iostream>
+	<assert.h>
+	"../include/Database.h"
+
+1687314003 source:c:\users\barce\documents\ciÊncia da computaÇÃo\1º semestre\programação de soluções computacionais- adriana\livraria\src\ler.cpp
+	"Ler.h"
+
+1686747881 c:\users\barce\documents\ciÊncia da computaÇÃo\1º semestre\programação de soluções computacionais- adriana\livraria\include\ler.h
+	<iostream>
+	<string>
+	<limits>
+	<vector>
+
+1687354971 source:c:\users\barce\documents\ciÊncia da computaÇÃo\1º semestre\programação de soluções computacionais- adriana\livraria\src\livro.cpp
+	"../include/Livro.h"
+	"../include/Database.h"
+	"../include/Ler.h"
+	<string>
+	<vector>
+	<list>
+	<iostream>
+	<sstream>
+	<assert.h>
+	<conio.h>
+	<cstdio>
+
+1687355271 source:c:\users\barce\documents\ciÊncia da computaÇÃo\1º semestre\programação de soluções computacionais- adriana\livraria\src\menu.cpp
+	"../include/Menu.h"
+	"../include/Livro.h"
+	"../include/Cliente.h"
+	"../include/PedidoVenda.h"
+	<iostream>
+	<conio.h>
+	<cstdlib>
+
+1687356642 source:c:\users\barce\documents\ciÊncia da computaÇÃo\1º semestre\programação de soluções computacionais- adriana\livraria\src\pedidovenda.cpp
+	"../include/PedidoVenda.h"
+	"../include/Database.h"
+	"../include/Ler.h"
+	<string>
+	<vector>
+	<list>
+	<iostream>
+	<sstream>
+	<assert.h>
+	<conio.h>
+	<cstdio>
+
+1687356713 c:\users\barce\documents\ciÊncia da computaÇÃo\1º semestre\programação de soluções computacionais- adriana\livraria\include\pedidovenda.h
+	"Cliente.h"
+	<string>
+	<vector>
+	<list>
+	<iostream>
+	<assert.h>
+	"../include/Database.h"
+
