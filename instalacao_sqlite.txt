@@ -1,0 +1,5 @@
+Para execucao: 
+1) Colocar na variavel de ambiente PATH o caminho onde se encontra o sqlite.dll 
+
+2) Instalar o SQLite Viewer
+   https://download.sqlitebrowser.org/DB.Browser.for.SQLite-3.12.2-win64.zip
